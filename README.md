@@ -1,4 +1,4 @@
-<span style="color:blue;font-weight:400;font-size:20px">
+<span style="color:blue;font-weight:400;font-size:30px">
     About Me
 </span>
 
