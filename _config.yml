@@ -4,3 +4,4 @@ skin: midnight
 description: Postdoctoral Research Assistant
 logo: https://media-exp1.licdn.com/dms/image/C4E03AQFkeOZzrQ2wmw/profile-displayphoto-shrink_400_400/0/1610320302342?e=1672272000&v=beta&t=we4mQ84G8psVAvlFooeQALaTUPvql_8QREZ97F7aspg
 show_downloads: false
+plugins: - jekyll-sitemap
